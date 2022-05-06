@@ -3,7 +3,7 @@ import speech_recognition as sr
 import datetime
 import wikipedia
 import webbrowser
-import PyAudio
+
 
 '''import os
 import smtplib'''
